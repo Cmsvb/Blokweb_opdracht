@@ -3,3 +3,13 @@
   box-sizing:border-box;  
 }
 
+H1{
+  font-family:'Karla', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 5.5em;
+}
+
+q{
+
+}
