@@ -38,7 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Toen ik onderzoek ging doen naar de font's en foto's die atelje op hun website gebruikt raakte ik erg in de war doordat de website is gemaakt door middel van shopify. De code is daardoor erg onoverzichtelijk en ook niet correct gebruikt. Op een bepaald punt raakte ik zo erg in de war dat alles maar ben vergelijken met hoe het op de site zelf staat in plaats van het te zoeken in de css.-
 
 **Screenshot(s):**
 
