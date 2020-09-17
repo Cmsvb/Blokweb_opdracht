@@ -38,15 +38,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--Toen ik onderzoek ging doen naar de font's en foto's die atelje op hun website gebruikt raakte ik erg in de war doordat de website is gemaakt door middel van shopify. De code is daardoor erg onoverzichtelijk en ook niet correct gebruikt. Op een bepaald punt raakte ik zo erg in de war dat alles maar ben vergelijken met hoe het op de site zelf staat in plaats van het te zoeken in de css.-
+Wat ging goed?
+
+- Ik ben niet tegen grote problemen opgelopen en het ging allemaal vrij soepel
+- Werken met flexbox ging soepel
+
+wat ging minder goed?
+
+- De header foto vind ik lastig om gelijk te krijgen aan de website
+- Ik kon me minder goed concentreren waardoor de snelheid er deze week niet echt in zat
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+- [Eerste voorgang mobiele versie](images/Update1_mobile.jpg)
+
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+- Stijn en Sabine: Vraag over heading image
 
 ### Verslag van meeting
 
@@ -68,10 +77,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![voorbeeld 1](images/voorbeeld1.png)
-![voorbeeld 2](images/voorbeeld2.png)
-![voorbeeld 3](images/voorbeeld3.png)
+- [voorbeeld 1](images/voorbeeld1.png)
+- [voorbeeld 2](images/voorbeeld2.png)
+- [voorbeeld 3](images/voorbeeld3.png)
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets van de homepagina](images/breakdownschets.jpg)
+- [-voorlopige breakdownschets van de homepagina](images/breakdownschets.jpg)
