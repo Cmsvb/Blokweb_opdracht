@@ -30,7 +30,36 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Wat ging goed?
+
+- Het werken met grid ging goed en vond ik niet heel erg lastig
+
+wat ging minder goed?
+
+- De header foto klopt nog steeds niet helemaal aan de site
+- Ik had wat moeite met het werkend krijgen van de navigatie maar uiteindelijk is het gelukt
+
+**Screenshot(s):**
+
+- [Tweede voorgang mobiele versie](images/voortgang2_desktop.jpg)
+- [Tweede voorgang tablet versie](images/voortgang2_mobiel.png)
+- [Tweede voorgang desktop versie](images/voortgang2_tablet.png)
+
+
+### Agenda voor meeting
+
+- Cas: Grid
+- Davey: media queries, wanneer gebruiken en op welke manier, Navbar die verander van content wanneer scherm groter is?
+- Sabine & Thasja: Hoe begin je met de tweede pagina?
+- Julian en Davey: draggable functies met javascript
+- Amanda: Vraag over de border van een button
+- Noah: Vraag over hover op afbeelding, vraag over media queries mbt navigatie, vraag footer element
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
 
 
 
@@ -59,7 +88,7 @@ wat ging minder goed?
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+
 
 
 
