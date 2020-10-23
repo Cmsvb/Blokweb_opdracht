@@ -7,6 +7,15 @@
   outline: 0;
 }
 
+button:focus, a:focus, input:focus, select:focus, .product button:focus{
+  border: 3px solid rgba(159, 199, 108,0.7);
+}
+
+header a:focus, footer a:focus{
+  padding: 5px;
+  background-color: rgba(159, 199, 108,0.4);
+}
+
 section{
   width: 100%;
 }
@@ -432,11 +441,19 @@ footer img{
   margin-top: 1em;
 }
 
+.product section section button:focus{
+  border: 3px solid rgba(159, 199, 108,0.7);
+}
+
 .product section section button:nth-of-type(2){
 background-color: black;
 color: white;
 text-transform: lowercase;
 border: 1px solid black;
+}
+
+.product section section button:nth-of-type(2):focus{
+  border: 3px solid rgba(159, 199, 108,1);
 }
 
 .product section section a{
@@ -456,7 +473,9 @@ border: 1px solid black;
   width: 100%;
 }
 
-
+.product section section a:focus{
+  border: 3px solid rgba(159, 199, 108,0.7);
+}
 .product section section p{
   margin-top: 1em;
 }
@@ -497,6 +516,9 @@ select{
   font-weight: 700;
 }
 
+.product main section:first-of-type > section:nth-of-type(2) button:last-of-type:focus {
+  border: 3px solid rgba(159, 199, 108,0.7);
+}
 .product main section:first-of-type > section:nth-of-type(2) button:last-of-type::after{
   content: "+";
   position: absolute;
@@ -520,7 +542,7 @@ select{
   transition: ease-in 0.5s;
 }
 
-.product main section:nth-of-type(2) ul.showinfo{
+.product main section:nth-of-type(2) ul.showinfo:focus{
   height: 14em;
 }
 
@@ -559,6 +581,11 @@ select{
   display:inline-block;
   grid-column: 1 / -1;
   justify-self: center;
+}
+
+.product main > section:nth-of-type(2) > a:last-of-type:focus {
+  padding: 5px;
+  border: 3px solid rgba(159, 199, 108,0.7);
 }
 
 main > section:nth-of-type(2) > a:last-of-type svg{
